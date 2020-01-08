@@ -1,5 +1,4 @@
 import re
-import scraper
 import nltk
 import pandas as pd
 from nltk.corpus import stopwords
